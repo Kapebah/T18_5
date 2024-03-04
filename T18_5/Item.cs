@@ -32,6 +32,7 @@ namespace T18_5
         /// </summary>
         /// <returns>Information about item</returns>
         public abstract string ToString();
+        public abstract string Expiry();
 
     }
 }

@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "S:\\work\\FoAP\\T18_5\\T18_5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|S:\\work\\FoAP\\T18_5\\T18_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|s:\\work\\foap\\t18_5\\t18_5\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|s:\\work\\foap\\t18_5\\t18_5\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|s:\\work\\foap\\t18_5\\t18_5\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|s:\\work\\foap\\t18_5\\t18_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|s:\\work\\foap\\t18_5\\t18_5\\set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|s:\\work\\foap\\t18_5\\t18_5\\itemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:itemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|S:\\work\\FoAP\\T18_5\\T18_5\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 389,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "S:\\work\\FoAP\\T18_5\\T18_5\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAmwDkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-04T13:19:14.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Item.cs",
               "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\Item.cs",
               "RelativeDocumentMoniker": "Item.cs",
               "ToolTip": "S:\\work\\FoAP\\T18_5\\T18_5\\Item.cs",
               "RelativeToolTip": "Item.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-04T13:43:45.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\Product.cs",
               "RelativeDocumentMoniker": "Product.cs",
-              "ToolTip": "S:\\work\\FoAP\\T18_5\\T18_5\\Product.cs",
-              "RelativeToolTip": "Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ToolTip": "S:\\work\\FoAP\\T18_5\\T18_5\\Product.cs*",
+              "RelativeToolTip": "Product.cs*",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCEAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-04T13:59:19.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Batch.cs",
+              "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\Batch.cs",
+              "RelativeDocumentMoniker": "Batch.cs",
+              "ToolTip": "S:\\work\\FoAP\\T18_5\\T18_5\\Batch.cs*",
+              "RelativeToolTip": "Batch.cs*",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwCgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T21:31:24.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Set.cs",
+              "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\Set.cs",
+              "RelativeDocumentMoniker": "Set.cs",
+              "ToolTip": "S:\\work\\FoAP\\T18_5\\T18_5\\Set.cs",
+              "RelativeToolTip": "Set.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T22:12:11.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemsRepository.cs",
+              "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\ItemsRepository.cs",
+              "RelativeDocumentMoniker": "ItemsRepository.cs",
+              "ToolTip": "S:\\work\\FoAP\\T18_5\\T18_5\\ItemsRepository.cs",
+              "RelativeToolTip": "ItemsRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T22:32:58.407Z",
               "EditorCaption": ""
             }
           ]

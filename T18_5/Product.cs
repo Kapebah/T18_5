@@ -31,11 +31,31 @@ namespace T18_5
         /// Identifying if a product is overdue
         /// </summary>
         /// <returns>String overdue or not</returns>
-        public override string Expiry() { return (ExpirationDate <= DateTime.Now) ? "Not expired" : $"{DateTime.Now.Day - ExpirationDate.Day} days overdue"; }
+        public override string Expiry() { return (ExpirationDate >= DateTime.Now) ? "Not expired" : $"{DateTime.Now.Day - ExpirationDate.Day} days overdue"; }
+        /// <summary>
+        /// Overriden method for output all info
+        /// </summary>
+        /// <returns>Info about product</returns>
         public override string ToString() 
         { 
             return $"Name: {Name}\nPrice: {Price}\nDate of production: {ProductionDate.ToLongDateString()}\n" +
                 $"Expiration date: {ExpirationDate.ToLongDateString()}\nCondition: {Expiry()}\n"; 
+        }
+        /// <summary>
+        /// Input info about product
+        /// </summary>
+        /// <returns>Inputed info</returns>
+        public static Product Input()
+        {
+            Write("Enter the product's name: ");
+            string name = ReadLine();
+            Write("Enter the product's price: ");
+            double price = Convert.ToDouble(ReadLine());
+            Write("Enter the date of production: ");
+            DateTime productionDate = DateTime.Parse(ReadLine());
+            Write("Enter the expiration date: ");
+            DateTime expirationDate = DateTime.Parse(ReadLine());
+            return new Product(name, price, productionDate, expirationDate);
         }
     }
 }

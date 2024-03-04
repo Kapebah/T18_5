@@ -7,7 +7,8 @@ using static System.Console;
 
 namespace T18_5
 {
-    internal class Product
+    class Product : Item
     {
+
     }
 }

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "S:\\work\\FoAP\\T18_5\\T18_5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|s:\\work\\foap\\t18_5\\t18_5\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|s:\\work\\foap\\t18_5\\t18_5\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|s:\\work\\foap\\t18_5\\t18_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 389,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "S:\\work\\FoAP\\T18_5\\T18_5\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-04T13:19:14.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "S:\\work\\FoAP\\T18_5\\T18_5\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:43:45.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "S:\\work\\FoAP\\T18_5\\T18_5\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:59:19.8Z",
               "EditorCaption": ""
             }
           ]

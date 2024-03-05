@@ -39,7 +39,7 @@ namespace T18_5
         public override string ToString() 
         { 
             return $"Name: {Name}\nPrice: {Price}\nDate of production: {ProductionDate.ToLongDateString()}\n" +
-                $"Expiration date: {ExpirationDate.ToLongDateString()}\nCondition: {Expiry()}\n"; 
+                $"Expiration date: {ExpirationDate.ToLongDateString()}\nCondition: {Expiry()}"; 
         }
         /// <summary>
         /// Input info about product

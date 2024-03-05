@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "S:\\work\\FoAP\\T18_5\\T18_5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|s:\\work\\foap\\t18_5\\t18_5\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|s:\\work\\foap\\t18_5\\t18_5\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 389,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -46,11 +50,12 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAkwDkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T13:19:14.219Z"
+              "WhenOpened": "2024-03-04T13:19:14.219Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Item.cs",
               "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\Item.cs",
               "RelativeDocumentMoniker": "Item.cs",
@@ -58,11 +63,12 @@
               "RelativeToolTip": "Item.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T13:43:45.167Z"
+              "WhenOpened": "2024-03-04T13:43:45.167Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\Product.cs",
               "RelativeDocumentMoniker": "Product.cs",
@@ -75,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Batch.cs",
               "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\Batch.cs",
               "RelativeDocumentMoniker": "Batch.cs",
@@ -83,11 +89,12 @@
               "RelativeToolTip": "Batch.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAcwCgAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T21:31:24.656Z"
+              "WhenOpened": "2024-03-04T21:31:24.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Set.cs",
               "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\Set.cs",
               "RelativeDocumentMoniker": "Set.cs",
@@ -95,11 +102,12 @@
               "RelativeToolTip": "Set.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAAABoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T22:12:11.522Z"
+              "WhenOpened": "2024-03-04T22:12:11.522Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ItemsRepository.cs",
               "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\ItemsRepository.cs",
               "RelativeDocumentMoniker": "ItemsRepository.cs",
@@ -107,7 +115,20 @@
               "RelativeToolTip": "ItemsRepository.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAQwBoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T22:32:58.407Z"
+              "WhenOpened": "2024-03-04T22:32:58.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "S:\\work\\FoAP\\T18_5\\T18_5\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-03-05T08:50:36.896Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "S:\\work\\FoAP\\T18_5\\T18_5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|S:\\work\\FoAP\\T18_5\\T18_5\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|s:\\work\\foap\\t18_5\\t18_5\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|s:\\work\\foap\\t18_5\\t18_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|S:\\work\\FoAP\\T18_5\\T18_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -46,8 +46,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAkwDkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T13:19:14.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T13:19:14.219Z"
             },
             {
               "$type": "Document",
@@ -69,7 +68,7 @@
               "RelativeDocumentMoniker": "Product.cs",
               "ToolTip": "S:\\work\\FoAP\\T18_5\\T18_5\\Product.cs",
               "RelativeToolTip": "Product.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAzwCAAAAA0AAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCAAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-04T13:59:19.8Z",
               "EditorCaption": ""
@@ -84,8 +83,7 @@
               "RelativeToolTip": "Batch.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAcwCgAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T21:31:24.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T21:31:24.656Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "Set.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAAABoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T22:12:11.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T22:12:11.522Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "ItemsRepository.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAQwBoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T22:32:58.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T22:32:58.407Z"
             }
           ]
         }

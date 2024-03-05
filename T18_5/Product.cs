@@ -31,7 +31,7 @@ namespace T18_5
         /// Identifying if a product is overdue
         /// </summary>
         /// <returns>String overdue or not</returns>
-        public override string Expiry() { return (ExpirationDate >= DateTime.Now) ? "Not expired" : $"{DateTime.Now.Day - ExpirationDate.Day} days overdue"; }
+        public override string Expiry() { return (ExpirationDate > DateTime.Now) ? "Not expired" : $"{DateTime.Now.Day - ExpirationDate.Day} days overdue"; }
         /// <summary>
         /// Overriden method for output all info
         /// </summary>

@@ -10,15 +10,19 @@ namespace T18_5
 {
     internal class Program
     {
-        enum Action { Add = 1, Output, Exit }
-        enum TypeOfItem { Product = 1, Batch, Set, Exit }
-        static void Main(string[] args)
+        private enum Action
+        { Add = 1, Output, Exit }
+
+        private enum TypeOfItem
+        { Product = 1, Batch, Set, Exit }
+
+        private static void Main(string[] args)
         {
             try
             {
                 ItemsRepository repository = new ItemsRepository();
                 bool flag = true;
-                
+
                 while (flag)
                 {
                     ForegroundColor = ConsoleColor.DarkCyan;
@@ -41,12 +45,15 @@ namespace T18_5
                                         case TypeOfItem.Product:
                                             repository.AddItem(Product.Input());
                                             break;
+
                                         case TypeOfItem.Batch:
                                             repository.AddItem(Batch.Input());
                                             break;
+
                                         case TypeOfItem.Set:
                                             repository.AddItem(Set.Input());
                                             break;
+
                                         case TypeOfItem.Exit:
                                             Environment.Exit(0);
                                             break;
@@ -54,10 +61,12 @@ namespace T18_5
                                 }
                                 else { WriteLine("Wrong action. Try again!"); }
                                 break;
+
                             case Action.Output:
                                 Clear();
                                 repository.OutputItem();
                                 break;
+
                             case Action.Exit:
                                 Environment.Exit(0);
                                 break;

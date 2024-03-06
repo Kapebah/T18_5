@@ -15,32 +15,40 @@ namespace T18_5
         /// Date of production
         /// </summary>
         public DateTime ProductionDate { get; set; }
+
         /// <summary>
         /// Expiration date
         /// </summary>
-        public DateTime ExpirationDate {  get; set; }
+        public DateTime ExpirationDate { get; set; }
+
         /// <summary>
         /// Constructors
         /// </summary>
-        public Product() { }
+        public Product()
+        { }
+
         public Product(string name, double price, DateTime productionDate, DateTime expirationDate) : base(name, price)
         {
             ProductionDate = productionDate; ExpirationDate = expirationDate;
         }
+
         /// <summary>
         /// Identifying if a product is overdue
         /// </summary>
         /// <returns>String overdue or not</returns>
-        public override string Expiry() { return (ExpirationDate > DateTime.Now) ? "Not expired" : $"{DateTime.Now.Day - ExpirationDate.Day} days overdue"; }
+        public override string Expiry()
+        { return (ExpirationDate > DateTime.Now) ? "Not expired" : $"{DateTime.Now.Day - ExpirationDate.Day} days overdue"; }
+
         /// <summary>
         /// Overriden method for output all info
         /// </summary>
         /// <returns>Info about product</returns>
-        public override string ToString() 
-        { 
+        public override string ToString()
+        {
             return $"Name: {Name}\nPrice: {Price}\nDate of production: {ProductionDate.ToLongDateString()}\n" +
-                $"Expiration date: {ExpirationDate.ToLongDateString()}\nCondition: {Expiry()}"; 
+                $"Expiration date: {ExpirationDate.ToLongDateString()}\nCondition: {Expiry()}";
         }
+
         /// <summary>
         /// Input info about product
         /// </summary>

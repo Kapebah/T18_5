@@ -12,7 +12,8 @@ namespace T18_5
         /// <summary>
         /// Collection of persons
         /// </summary>
-        List<Item> items = new List<Item>();
+        private List<Item> items = new List<Item>();
+
         /// <summary>
         /// Method of adding items
         /// </summary>
@@ -22,6 +23,7 @@ namespace T18_5
             items.Add(product);
             WriteLine($"You have add the new item - {product.Name}\n");
         }
+
         /// <summary>
         /// Output info about all added items
         /// </summary>

@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "S:\\work\\FoAP\\T18_5\\T18_5\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|s:\\work\\foap\\t18_5\\t18_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|s:\\work\\foap\\t18_5\\t18_5\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|s:\\work\\foap\\t18_5\\t18_5\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|s:\\work\\foap\\t18_5\\t18_5\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|s:\\work\\foap\\t18_5\\t18_5\\itemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:itemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|s:\\work\\foap\\t18_5\\t18_5\\set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3E6EB2-335F-4D9E-93C1-B2B5FAA8687B}|T18_5.csproj|solutionrelative:set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +34,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 389,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "S:\\work\\FoAP\\T18_5\\T18_5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:56:21.04Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "S:\\work\\FoAP\\T18_5\\T18_5\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:56:36.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "S:\\work\\FoAP\\T18_5\\T18_5\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:57:16.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Batch.cs",
+              "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\Batch.cs",
+              "RelativeDocumentMoniker": "Batch.cs",
+              "ToolTip": "S:\\work\\FoAP\\T18_5\\T18_5\\Batch.cs",
+              "RelativeToolTip": "Batch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:57:28.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Set.cs",
+              "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\Set.cs",
+              "RelativeDocumentMoniker": "Set.cs",
+              "ToolTip": "S:\\work\\FoAP\\T18_5\\T18_5\\Set.cs",
+              "RelativeToolTip": "Set.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:57:17.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemsRepository.cs",
+              "DocumentMoniker": "S:\\work\\FoAP\\T18_5\\T18_5\\ItemsRepository.cs",
+              "RelativeDocumentMoniker": "ItemsRepository.cs",
+              "ToolTip": "S:\\work\\FoAP\\T18_5\\T18_5\\ItemsRepository.cs",
+              "RelativeToolTip": "ItemsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:57:15.375Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"

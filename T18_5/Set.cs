@@ -12,12 +12,16 @@ namespace T18_5
         /// <summary>
         /// List of products
         /// </summary>
-        public List<string> ListOfProducts {  get; set; }
+        public List<string> ListOfProducts { get; set; }
+
         /// <summary>
         /// Constructors
         /// </summary>
-        public Set() { }
+        public Set()
+        { }
+
         public Set(string name, double price, List<string> listOfProducts) : base(name, price) => ListOfProducts = listOfProducts;
+
         /// <summary>
         /// Overriden method Expiry
         /// </summary>
@@ -27,6 +31,7 @@ namespace T18_5
         {
             throw new NotImplementedException();
         }
+
         /// <summary>
         /// Overriden method for output all info
         /// </summary>
@@ -35,6 +40,7 @@ namespace T18_5
         {
             return $"Name: {Name}\nPrice: {Price}\nList of products: {string.Join(", ", ListOfProducts)}";
         }
+
         /// <summary>
         /// Input info about set
         /// </summary>
@@ -52,6 +58,5 @@ namespace T18_5
 
             return new Set(name, price, listOfProducts);
         }
-
     }
 }
